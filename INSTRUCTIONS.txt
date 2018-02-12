@@ -1,0 +1,45 @@
+READ ME
+
+FIRST SERVER CODE MUST RUN BEFORE ACCEPTING CLIENTS
+
+1. To begin chat type in username and team color which is
+   either red or blue. Then press LOGIN.
+
+2. Press START to begin the battleship game. If not enough
+   players are connected you have to wait until the server
+   capacity is connected.
+
+3. In the mean time while a player waits you can chat with
+   other players in the lobby using the left input text pane.
+   To send a message press SEND after typing your message.
+   Their are other features included such as print list of
+   online players and send message to a team. Type ‘#help'
+   to see how to execute commands.
+
+4. The right input text pane in black corresponds to the game
+   and is used to enter coordinates, orientation, and attack
+   commands.
+
+5. Once everyone is connected to the server, everyone is allowed
+   to set their ship pieces on the board. The black console
+   will display a certain type of ship and the player must
+   specify coordinates and orientation to place the ship.
+
+6. To input coordinates type them in format example 4,5 first
+   number corresponds to y(row) coordinate while the other is x(column)
+   coordinate then press SET COORDINATES.
+
+7. To input orientation type v for vertical or h for horizontal
+   and press SET ORIENTATION. Not case sensitive.
+
+8. Once player finishes placing all their ships they must
+   wait for other players to finish setting their boards
+   to begin playing.
+
+9. The game has begun, to attack a player specify their username
+   and the coordinates you wish to attack. A format example
+   is joey 3 4.
+
+10.If you want to end the game type quit. Not case sensitive.
+
+11.To close the chat press QUIT.
